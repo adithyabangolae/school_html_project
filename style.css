@@ -1,0 +1,118 @@
+body {
+    background-image: url("bg.jpg");
+}
+
+h1 {
+    color:black;
+    font-size: 50px;
+    background-color: white;
+    display:flex;
+    
+}
+
+h2 {
+    color:black;
+    font-family: impact;
+    font-size: 40px;
+    background-color: white;
+    display:flex;
+    justify-content: center;
+  
+
+}
+
+
+
+h3 {
+    color:black;
+    font-size: 23px;
+    font-family: impact;
+}
+
+
+
+.link p{
+
+    color:black;
+    font-size:20px
+
+
+}
+
+a:link {
+    color:#4D1A8B;
+    font-size:20px;
+
+}
+
+
+
+
+.list {
+    color:black;
+    font-size: 25px;
+    font-family: "Gill Sans";
+    font-weight:bold;
+    background-color: white;
+    display:flex;
+}
+
+
+
+
+
+.list2 {
+    color:black;
+    font-family: "Gill Sans";
+    font-size: 25px;
+    font-weight: bold;
+    background-color: white;
+    display:flex;
+    
+
+    
+}
+
+
+
+.list3  {
+    font-size: 20px;
+
+}
+
+.intro {
+    background-color: white;
+    display:flex;
+    color:black;
+    font-family: serif; 
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.plastic {
+    color:black;
+    font-family: serif; 
+    font-size: 20px;
+    background-color: white;
+    display:flex;
+    font-weight:bold;
+}
+
+.email h3 {
+
+    color:black;
+    background-color: white;
+    display:flex;
+    
+}
+
+.Email p {
+    font-size: 25px;
+    color: black;
+    font-weight: 300;
+    font-family: Garamond;
+    background-color: white;
+    display:flex;
+    
+}
